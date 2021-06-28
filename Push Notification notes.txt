@@ -1,0 +1,25 @@
+	/////////////////////////////////////// PWA PUSH NOTIFICATION ////////////////////////////
+
+First Step
+
+create react app
+
+Second Step
+
+firebase login and create a new project
+
+thired step "Get started by adding Firebase to your app"
+
+create firebase app "Select Web"
+
+four step "https://firebase.google.com/docs/cloud-messaging"
+
+follow all step see above the link
+	
+file name "firebase-messaging-sw.js"
+
+ create file root folder in your project 'public folder'
+
+then five step again firebase project and firbase config obj copy obj and paste "firebase-messaging-sw.js" file
+
+ 
