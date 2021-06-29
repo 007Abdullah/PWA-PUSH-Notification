@@ -22,4 +22,12 @@ file name "firebase-messaging-sw.js"
 
 then five step again firebase project and firbase config obj copy obj and paste "firebase-messaging-sw.js" file
 
+create src folder inside services firebaseConfig kii file complete kae bad
+
+"npm i firebase" cmd inside project
+
+then run project copy token 
+
+again firebase project go to cloud messaging fill all fields
+
  
